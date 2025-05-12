@@ -6,7 +6,7 @@
   </LocalSettings>
   <LocalSettings>
     <SettingName>TerminalID</SettingName>
-    <SettingValue>1006</SettingValue>
+    <SettingValue></SettingValue>
   </LocalSettings>
   <LocalSettings>
     <SettingName>TCPPort</SettingName>
@@ -58,7 +58,7 @@
   </LocalSettings>
   <LocalSettings>
     <SettingName>TerminalName</SettingName>
-    <SettingValue>POS 1006</SettingValue>
+    <SettingValue>POS </SettingValue>
   </LocalSettings>
   <LocalSettings>
     <SettingName>ClerkMode</SettingName>
